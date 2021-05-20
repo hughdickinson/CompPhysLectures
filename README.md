@@ -1,2 +1,2 @@
 # CompPhysLectures
-Lecture Slides and Materials for ISU Computational Physics
+Lecture Slides for ISU Computational Physics
